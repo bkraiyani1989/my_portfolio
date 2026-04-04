@@ -33,7 +33,7 @@ function App() {
         <main>
           <section className="hero" id="home">
             <div className="profile-pic">
-              <img src="/mypic.jpg" alt="Bhavik K. Raiyani" onClick={() => setZoomed(true)} />
+              <img src="https://bkraiyani1989.github.io/my_portfolio/mypic.jpg" alt="Bhavik K. Raiyani" onClick={() => setZoomed(true)} />
             </div>
             <p className="eyebrow">Senior Full-Stack Engineer</p>
             <h1>
