@@ -1,7 +1,7 @@
 .App {
   min-height: 100vh;
   background: radial-gradient(circle at top, rgba(56, 58, 64, 0.95), #050505 45%);
-  color: #f4f4f8;
+  color: #f4f4f9;
 }
 
 .page-shell {
